@@ -1,0 +1,7 @@
+numpy
+pyaudio
+soundfile
+faster-whisper
+ctransformers
+thefuzz
+keyboard
